@@ -1,6 +1,6 @@
-[!MasterHead](https://gifdb.com/images/featured/anime-banner-ymecq20numy17py9.gif)
+[![banner](https://github.com/user-attachments/assets/943e16a3-b3e3-43f3-b13a-30b27e3c1965)
 
-<h1 align="center">Hi 👋, I'm Abhinek Dangi</h1>
+<h1 align="center">Hi 👋, I'm Abhinek</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZlOWxuYzk4aW50dXJzcWRhMzlrNW4zb3N6eHZtdW54a203dHh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif">
 
@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **c++**
 
 - 📫 How to reach me **main.abhinek@gmail.com**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
