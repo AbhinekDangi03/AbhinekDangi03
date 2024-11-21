@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinekdangi03&" alt="abhinekdangi03" /></p>
 <img align="center" alt="coding" width="250" src="https://github.com/user-attachments/assets/483dd471-efce-4ac0-9d2e-d0a163818426">
+
+![snake gif](https://github.com/AbhinekDangi03/AbhinekDangi03/blob/output/github-contribution-grid-snake.gif)
