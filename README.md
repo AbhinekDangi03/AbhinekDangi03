@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinekdangi03&show_icons=true&locale=en" alt="abhinekdangi03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinekdangi03&" alt="abhinekdangi03" /></p>
-<img align="right" alt="coding" width="250" src="https://github.com/user-attachments/assets/483dd471-efce-4ac0-9d2e-d0a163818426">
+<img align="center" alt="coding" width="250" src="https://github.com/user-attachments/assets/483dd471-efce-4ac0-9d2e-d0a163818426">
