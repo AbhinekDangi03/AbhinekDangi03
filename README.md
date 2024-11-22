@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhinek</h1>
-<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="auto" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZlOWxuYzk4aW50dXJzcWRhMzlrNW4zb3N6eHZtdW54a203dHh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinekdangi03&label=Profile%20views&color=0e75b6&style=flat" alt="abhinekdangi03" /> </p>
