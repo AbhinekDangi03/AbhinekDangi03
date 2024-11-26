@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kenhibaa03" target="blank"><img src="https://img.shields.io/twitter/follow/kenhibaa03?logo=twitter&style=for-the-badge" alt="kenhibaa03" /></a> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Lua/ Love2D**
 - 📫 How to reach me **main.abhinek@gmail.com**
 -
 
