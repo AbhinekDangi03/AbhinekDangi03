@@ -1,4 +1,15 @@
+## 📊 System Analytics (GitHub Metrics)
 
-[![](https://raw.githubusercontent.com/sudhackar/sudhackar/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sudhackar/sudhackar/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sudhackar/sudhackar/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sudhackar/sudhackar/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sudhackar/sudhackar/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinekDangi03&theme=midnight_purple" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhinekDangi03&theme=midnight_purple" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhinekDangi03&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhinekDangi03&theme=midnight_purple" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhinekDangi03&theme=midnight_purple" />
+</p>
