@@ -1,5 +1,3 @@
-## 📊 System Analytics (GitHub Metrics)
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinekDangi03&theme=midnight_purple" alt="Profile Details" />
 </p>
